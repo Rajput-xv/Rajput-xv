@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 My Portfolio at [Link]([https://rajput-xv.github.io/Portfolio/])
+- 👨‍💻 My Portfolio at [Link](https://rajput-xv.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Dev**
 
