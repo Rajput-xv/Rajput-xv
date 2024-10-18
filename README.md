@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋! My name is Yash Verma and I'm a Web Developer, from India.</h1>
 
 
-- 🌱 I’m currently learning **Bcakend Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **DevOps**
 
 - 👨‍💻 My Portfolio at [Link](https://rajput-xv.github.io/Portfolio/)
 
