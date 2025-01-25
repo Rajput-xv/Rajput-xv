@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **yash44365@gmail.com**
 
+- Resume: [Link](https://drive.google.com/file/d/1syvfxSxhb2KQeRQ0Y0qr7BQErNZHDX-Z/view?usp=sharing)
+
   
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -52,17 +54,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" /></p>
 
 ###
-<!--
-<div style="display: flex; justify-content: space-between;">
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150"         alt="languages graph"  />
-  </div>
 
-  <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" />
-  </div>
-</div>
--->
 
 ###
 
@@ -76,39 +68,7 @@
 <a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajput_xv/profile" height="30" width="40" /></a>
 </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <!--<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a> -->
-</div>
-</details>
-<!--
-<div align="left">
-  <a href="https://www.linkedin.com/in/yash-rajput-xv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/yash44365" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://twitter.com/rajput_xv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/777931718610780162" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/rajput_xv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
--->
+
 
 ###
 
