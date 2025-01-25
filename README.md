@@ -48,24 +48,22 @@
 
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" /></p>
-
-###
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" /></p>
+</div>
 
 
 ###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajput_xv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajput-xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajput-xv" height="30" width="40" /></a>
-<a href="https://instagram.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajput_xv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yash44365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash44365" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajput_xv" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajput_xv/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajput_xv" height="30" width="40" padding="20"/></a>
+<a href="https://linkedin.com/in/rajput-xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajput-xv" height="30" width="40" padding="20"/></a>
+<a href="https://instagram.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajput_xv" height="30" width="40" padding="20"/></a>
+<!-- <a href="https://www.hackerrank.com/yash44365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash44365" height="30" width="40" padding="20"/></a> -->
+<a href="https://www.leetcode.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajput_xv" height="30" width="40" padding="20"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajput_xv/profile" height="30" width="40" padding="20"/></a>
 </p>
 
 
