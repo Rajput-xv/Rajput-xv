@@ -1,4 +1,9 @@
-<h1 align="left">Hi 👋! My name is Yash Verma and I'm a Web Developer, from India.</h1>
+<h1 align="center">
+    <tt>> Hello world</tt>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
+</h1>
+
+<h1 align="left">Hey 👋! My name is Yash Verma and I'm a Full Stack Web Developer, from India.</h1>
 
 
 - 🌱 I’m currently learning **DevOps**
