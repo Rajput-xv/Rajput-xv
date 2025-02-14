@@ -5,7 +5,7 @@
 
 <h1 align="left">Hey 👋! My name is Yash Verma and I'm a Full Stack Web Developer, from India.</h1>
 
-
+## 👨‍💻 About me
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
@@ -20,9 +20,8 @@
 
 - Resume: [Link](https://drive.google.com/file/d/1syvfxSxhb2KQeRQ0Y0qr7BQErNZHDX-Z/view?usp=sharing)
 
-  
-###
-<h3 align="left">Languages and Tools:</h3>
+---
+## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -51,17 +50,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
+---
 
-###
+## 🏆 GitHub Achievements  
+<div align="center">  
+  <img src="https://github-trophy.vercel.app/?username=Rajput-xv&margin-w=10&theme=radical">
+</div>
+
+---
+
+## 📈 GitHub Stats  
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" /></p>
 </div>
 
+---
 
-###
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajput_xv" height="30" width="40" padding="20"/></a>
 <a href="https://linkedin.com/in/rajput-xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajput-xv" height="30" width="40" padding="20"/></a>
