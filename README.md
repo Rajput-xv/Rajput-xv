@@ -3,12 +3,12 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
 </h1>
 
-<h1 align="left">Hey 👋! My name is Yash Verma and I'm a Full Stack Web Developer, from India.</h1>
+<h1 align="left">Hey 👋! My name is Yash Verma and I'm a Full Stack Developer, from India.</h1>
 
 ## 👨‍💻 About me
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
+- 👯 I’m looking to collaborate on **Full Stack Dev Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
