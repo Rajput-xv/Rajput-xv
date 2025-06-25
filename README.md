@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yash44365@gmail.com**
 
-- Resume: [Link](https://drive.google.com/file/d/1TAPTtdKLxcGhuPX0Mmf0Ug8xjtxpmDDw/view?usp=drive_link)
+- Resume: [Link](https://drive.google.com/file/d/1pkz0Tvgmy7sof--dPhvirjkyzXATTSga/view?usp=sharing)
 
 ---
 
