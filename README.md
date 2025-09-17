@@ -3,41 +3,56 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
 </h1>
 
-<h1 align="left">Hey 👋! I'm Yash Verma, a Full Stack Developer from India.</h1>
+<h1 align="left">Hey 👋! This side Yash Verma.</h1>
 
-## 👨‍💻 About me
-- 🌱 I’m currently learning **Elastic Stack**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Software Development Projects**
+I'm a **Full Stack Developer** and **Computer Science Student** from India, passionate about creating impactful solutions that solve real-world problems. Currently learning **DevOps** and exploring **AI integration** in web applications.
 
-- 🌐 Contributing to open-source projects
+### 🎯 **Current Focus**
+- 🔧 Building healthcare technology solutions
+- 🌍 Contributing to disaster management systems
+- 📚 Learning DevOps and cloud technologies
+- 🤝 Mentoring open-source contributors in GSSoC 2025
 
-- 👨‍💻 My Portfolio at [Link](https://rajput-xv.github.io/Portfolio/)
+### 📊 **Impact**
+- 🩺 Helping streamline health data extraction for medical professionals
+- 🌪️ Contributing to disaster preparedness and response systems
+- 🛒 Empowering small business vendors with digital marketplace solutions
 
-- 💬 Ask me about **Software Development**
+### 🎓 **Currently Learning**
+- 🐳 **DevOps**: Docker, Kubernetes, CI/CD pipelines
+- ☁️ **Cloud Computing**: Advanced AWS services and deployment
+- 🤖 **AI Integration**: Machine learning models in web applications
+- 📊 **Data Analytics**: Advanced business intelligence solutions
 
-- 📫 How to reach me **yash44365@gmail.com**
+### 📬 **Contact**
+- 🌐 **Portfolio**: [rajput-xv.github.io/Portfolio](https://rajput-xv.github.io/Portfolio/)
+- 💼 **Resume**: [View Resume](https://drive.google.com/file/d/1pkz0Tvgmy7sof--dPhvirjkyzXATTSga/view?usp=sharing)
+- 📧 **Email**: yash44365@gmail.com
+- 💡 **Open to**: Full-stack development opportunities, open-source collaborations, and mentoring
 
-- Resume: [Link](https://drive.google.com/file/d/1pkz0Tvgmy7sof--dPhvirjkyzXATTSga/view?usp=sharing)
+**💬 Ask me about:** React, Node.js, Healthcare Tech, Disaster Management Systems, or Open Source contributions!
 
 ---
 
+## 💻 Technical Skills
 <p align="center">
 
 - **Languages** :
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
       
 - **Front-End Development** :
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
@@ -71,26 +86,50 @@
     ![Cloudinary](https://img.shields.io/badge/Cloudinary-%23039BE5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![OCR](https://img.shields.io/badge/OCR-%23FF6C37.svg?style=for-the-badge&logo=optical-character-recognition&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-<br>
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Health Report Analyzer
+**✨ GSSoC 2025 Official Project | 9⭐ | 38🍴 | 27👥**
+- Upload lab reports (PDF/image) and get automated health data extraction
+- **Tech Stack:** React + Node.js + MongoDB + OCR + Firebase
+- **Impact:** Streamlining medical data processing for healthcare professionals
+- [🌐 Live Demo](https://health-report-analyzer.vercel.app) | [📝 Repository](https://github.com/Rajput-xv/Health-Report-Analyzer)
+
+### 🌪️ Crisis Nexus - Disaster Management Platform
+- Comprehensive disaster awareness and resource coordination system
+- **Tech Stack:** React + Node.js + MongoDB + Stripe + Weather API
+- **Features:** Resource allocation, donation system, weather integration
+- [🌐 Live Demo](https://crisis-nexus-server.vercel.app/)
+- [🎯 Frontend](https://github.com/Rajput-xv/Crisis-nexus-frontend) | [⚙️ Backend](https://github.com/Rajput-xv/Crisis-Nexus-server)
+
+### 🛒 Indian Bazaar - B2B Marketplace
+- Connects street food vendors with raw material suppliers across India
+- **Tech Stack:** React + TypeScript + Node.js + MongoDB + Tailwind CSS
+- **Features:** Dual user roles, real-time cart, location-based services
+- [🌐 Live Demo](https://indian-bazaar.vercel.app) | [📁 Repository](https://github.com/Rajput-xv/indian-bazaar)
+
 
 ---
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" /></p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" hspace="20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" hspace="10" />
+</p>
 
 ---
 
-## Connect with me
+## 📬 Connect with me
 <p align="left">
-<a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://linkedin.com/in/yash-rajput-xv" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="rajput-xv" height="30" padding="20"/></a>
-<a href="https://instagram.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://www.leetcode.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="rajput_xv/profile" height="30" padding="20"/></a>
+<a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
+<a href="https://linkedin.com/in/yash-rajput-xv" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="rajput-xv" height="30" padding="20"/></a>
+<a href="https://instagram.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
+<a href="https://www.leetcode.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="rajput_xv" height="30" padding="20"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="rajput_xv/profile" height="30" padding="20"/></a>
 </p>
 
 ---
@@ -99,6 +138,20 @@
 <div align="center">  
   <img src="https://github-trophy.vercel.app/?username=Rajput-xv&margin-w=10&theme=radical">
 </div>
+
+---
+
+## 🌟 **Let's Build Something Amazing Together!**
+
+I'm passionate about creating technology that makes a real difference. Whether you're interested in:
+- 🩺 **Healthcare Innovation**
+- 🌍 **Social Impact Projects**  
+- 🚀 **Full-Stack Development**
+- 📚 **Open Source Contribution**
+
+**Let's connect and create something meaningful!** 
+
+⭐ *If you find my work interesting, please consider starring my repositories!*
 
 ---
 
