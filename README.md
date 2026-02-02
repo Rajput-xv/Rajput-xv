@@ -47,10 +47,10 @@
   </picture>
   &nbsp;
   <a href="https://github.com/Rajput-xv?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajput-xv?label=🤝%20Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Rajput-xv?label=🤝%20Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Rajput-xv?label=⭐%20Total%20Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/Rajput-xv?label=⭐%20Total%20Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Total Stars" />
 
 </div>
 
@@ -382,24 +382,24 @@ export default yash;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajput-xv&bg_color=1a1b27&color=6366f1&line=628fdb&point=6366f1&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph" width="95%"/>
 
 <p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats-ecru-chi-88.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajput-xv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&cache_seconds=1800" width="45%"/>
+<img src="https://github-readme-stats-ecru-chi-88.vercel.app/api/top-langs/?username=Rajput-xv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&cache_seconds=1800" width="45%"/>
 
 </div>
 
 ---
 
-<!-- Trophies -->
+<!-- Trophies
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rajput-xv&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
----
+--- -->
 
 <!-- Connect Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="28" /> &nbsp;Let's Connect!
