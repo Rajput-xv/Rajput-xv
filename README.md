@@ -296,14 +296,14 @@ I'm not just a developer who writes code - I'm someone who believes technology s
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajput-xv&bg_color=1a1b27&color=6366f1&line=628fdb&point=6366f1&area=true&hide_border=true&border_radius=15" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajput-xv&bg_color=1a1b27&color=6366f1&line=628fdb&point=6366f1&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph" width="95%"/>
 
 <p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajput-xv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajput-xv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&cache_seconds=1800" width="45%"/>
 
 </div>
 
@@ -313,7 +313,7 @@ I'm not just a developer who writes code - I'm someone who believes technology s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajput-xv&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rajput-xv&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
 ---
