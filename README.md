@@ -1,164 +1,396 @@
-<h1 align="center">
-    <tt>> Hello world</tt>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
-</h1>
+<!-- Header Banner with Animated Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Tech%20for%20Good&descAlignY=52&descSize=18"/>
 
-<h1 align="left">Hey 👋! This side Yash Verma.</h1>
-
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer** and **Computer Science Student** from India, passionate about creating impactful solutions that solve real-world problems. Currently learning **DevOps** and exploring **AI integration** in web applications.
-
-### 🎯 **Current Focus**
-- 🔧 Building healthcare technology solutions
-- 🌍 Contributing to disaster management systems
-- 📚 Learning DevOps and cloud technologies
-- 🤝 Mentoring open-source contributors in GSSoC 2025
-
-### 📊 **Impact**
-- 🩺 Helping streamline health data extraction for medical professionals
-- 🌪️ Contributing to disaster preparedness and response systems
-- 🛒 Empowering small business vendors with digital marketplace solutions
-
-### 🎓 **Currently Learning**
-- 🐳 **DevOps**: Docker, Kubernetes, CI/CD pipelines
-- ☁️ **Cloud Computing**: Advanced AWS services and deployment
-- 🤖 **AI Integration**: Machine learning models in web applications
-- 📊 **Data Analytics**: Advanced business intelligence solutions
-
-### 📬 **Contact**
-- 🌐 **Portfolio**: [rajput-xv.github.io/Portfolio](https://rajput-xv.github.io/Portfolio/)
-- 💼 **Resume**: [View Resume](https://drive.google.com/file/d/1pkz0Tvgmy7sof--dPhvirjkyzXATTSga/view?usp=sharing)
-- 📧 **Email**: yash44365@gmail.com
-- 💡 **Open to**: Full-stack development opportunities, open-source collaborations, and mentoring
-
-**💬 Ask me about:** React, Node.js, Healthcare Tech, Disaster Management Systems, or Open Source contributions!
-
----
-
-## 💻 Technical Skills
-<p align="center">
-
-- **Languages** :
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-      
-- **Front-End Development** :
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
-
-- **Back-End Development** :
-
-   ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-   ![Multer](https://img.shields.io/badge/Multer-%23000000.svg?style=for-the-badge&logo=multer&logoColor=white)
+<div align="center">
   
-- **Softwares and Tools** :
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+Meerut%2C+India+%F0%9F%87%AE%F0%9F%87%B3;GSSoC+2025+Project+Admin+%F0%9F%8C%9F;40%2B+Repositories+%7C+2.5%2B+Years+on+GitHub" alt="Typing SVG" /></a>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-    ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-    ![Cloudinary](https://img.shields.io/badge/Cloudinary-%23039BE5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![OCR](https://img.shields.io/badge/OCR-%23FF6C37.svg?style=for-the-badge&logo=optical-character-recognition&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+  <!-- Profile Views & Followers -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Rajput-xv&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+    <a href="https://github.com/Rajput-xv?tab=followers">
+      <img src="https://img.shields.io/github/followers/Rajput-xv?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
+    </a>
+    <img src="https://img.shields.io/github/stars/Rajput-xv?label=Total%20Stars&style=for-the-badge&color=6366f1" alt="Total Stars"/>
+  </p>
 
----
+</div>
 
-## 🚀 Featured Projects
+<!-- About Me Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;The Story So Far
 
-### 🩺 Health Report Analyzer
-**✨ GSSoC 2025 Official Project | 9⭐ | 38🍴 | 27👥**
-- Upload lab reports (PDF/image) and get automated health data extraction
-- **Tech Stack:** React + Node.js + MongoDB + OCR + Firebase
-- **Impact:** Streamlining medical data processing for healthcare professionals
-- [🌐 Live Demo](https://health-report-analyzer.vercel.app) | [📝 Repository](https://github.com/Rajput-xv/Health-Report-Analyzer)
+```javascript
+const yash = {
+    pronouns: "he/him",
+    location: "Meerut, Uttar Pradesh, India 📍",
+    education: {
+        degree: "B.Tech in Computer Science",
+        university: "VIT Bhopal",
+        cgpa: 8.5,
+        graduation: 2026
+    },
+    currentlyWorking: "Building impactful healthcare & social good solutions",
+    learning: ["DevOps", "Go", "System Design", "Cloud Architecture"],
+    hobbies: ["Traveling 🌍", "Photography 📸", "Open Source 💻"],
+    funFact: "Ranked 304th among 27,000+ developers in GSSoC 2024! 🏆"
+};
+```
 
-### 🌪️ Crisis Nexus - Disaster Management Platform
-- Comprehensive disaster awareness and resource coordination system
-- **Tech Stack:** React + Node.js + MongoDB + Stripe + Weather API
-- **Features:** Resource allocation, donation system, weather integration
-- [🌐 Live Demo](https://crisis-nexus-server.vercel.app/)
-- [🎯 Frontend](https://github.com/Rajput-xv/Crisis-nexus-frontend) | [⚙️ Backend](https://github.com/Rajput-xv/Crisis-Nexus-server)
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🛒 Indian Bazaar - B2B Marketplace
-- Connects street food vendors with raw material suppliers across India
-- **Tech Stack:** React + TypeScript + Node.js + MongoDB + Tailwind CSS
-- **Features:** Dual user roles, real-time cart, location-based services
-- [🌐 Live Demo](https://indian-bazaar.vercel.app) | [📁 Repository](https://github.com/Rajput-xv/indian-bazaar)
+### 👨‍💻 **Hey there, I'm Yash!**
 
+I'm not just a developer who writes code — I'm someone who believes technology should **make people's lives better**. Whether it's helping doctors analyze health reports faster, coordinating disaster relief efforts, or connecting street vendors with suppliers — every line of code I write has a purpose.
 
----
+**🎯 What drives me:**
+- Building **healthcare tech** that actually helps medical professionals
+- Creating **social impact platforms** for disaster preparedness  
+- Empowering **small businesses** with digital solutions
+- Mentoring the next generation of **open-source contributors**
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajput-xv&show_icons=true&locale=en&theme=dark" alt="rajput-xv" hspace="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-xv&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajput-xv" hspace="10" />
-</p>
+**✨ Current Chapter:**
+- 🏥 Leading **Health Report Analyzer** as GSSoC 2025 Project Admin
+- 🌱 Exploring **Go Lang** and **DevOps** practices
+- 🎓 Final year B.Tech student turning ideas into reality
+- 🤝 Always up for meaningful collaborations!
 
----
-
-## 📬 Connect with me
-<p align="left">
-<a href="https://twitter.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://linkedin.com/in/yash-rajput-xv" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="rajput-xv" height="30" padding="20"/></a>
-<a href="https://instagram.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://www.leetcode.com/rajput_xv" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="rajput_xv" height="30" padding="20"/></a>
-<a href="https://auth.geeksforgeeks.org/user/rajput_xv/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="rajput_xv/profile" height="30" padding="20"/></a>
-</p>
+<br clear="both">
 
 ---
 
-## 🏆 GitHub Achievements  
-<div align="center">  
-  <img src="https://github-trophy.vercel.app/?username=Rajput-xv&margin-w=10&theme=radical">
+<!-- Journey Timeline -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;My Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 **Professional Experience**
+
+**🔷 ReactJS Developer Intern** @ Qureal AI  
+`Sep 2025 - Nov 2025`
+> Built full-stack admin portal managing e-commerce operations across 20+ components
+
+**🔷 Web Development Intern** @ Rekniq Consultants  
+`Jun 2025 - Sep 2025`
+> Developed Vision E Academy from scratch & enhanced Odoo e-commerce platform
+
+**🔷 Open-Source Contributor** @ GSSoC  
+`May 2024 - Nov 2024`
+> Ranked 304th/27,000+ developers • Improved page load by 30%
+
+**🔷 Space Tech Intern** @ India Space Lab  
+`Dec 2024 - Jan 2025`
+> Hands-on with drone tech, CanSat, CubeSat & space entrepreneurship
+
+</td>
+<td width="50%">
+
+### 📚 **Education**
+
+**🎓 B.Tech in Computer Science**  
+*VIT Bhopal* | `2022 - 2026`
+> CGPA: **8.5** | Coursework: DSA, DBMS, OS, ML, AI
+
+**📖 Higher Secondary (CBSE)**  
+*Kendriya Vidyalaya, Meerut* | `2020 - 2021`
+> Scored **94.8%** | Science Stream with CS
+
+<br>
+
+### 🏆 **Achievements**
+
+🥇 **GSSoC 2025 Project Admin** - Health Report Analyzer  
+🏅 **Ranked 304/27,000+** in GSSoC 2024  
+⭐ **10+ Stars** on flagship project  
+🍴 **40+ Forks** from global contributors
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Tech Stack Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
+
+<div align="center">
+
+### 💻 **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
 
-## 🌟 **Let's Build Something Amazing Together!**
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> &nbsp;Featured Creations
 
-I'm passionate about creating technology that makes a real difference. Whether you're interested in:
-- 🩺 **Healthcare Innovation**
-- 🌍 **Social Impact Projects**  
-- 🚀 **Full-Stack Development**
-- 📚 **Open Source Contribution**
+<div align="center">
 
-**Let's connect and create something meaningful!** 
+<!-- Health Report Analyzer -->
+<a href="https://github.com/Rajput-xv/Health-Report-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajput-xv&repo=Health-Report-Analyzer&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
-⭐ *If you find my work interesting, please consider starring my repositories!*
+</div>
+
+### 🩺 **Health Report Analyzer** — *My Flagship Project*
+
+<table>
+<tr>
+<td width="60%">
+
+> **The Problem:** Doctors spend hours manually extracting data from lab reports  
+> **My Solution:** AI-powered OCR that does it in seconds
+
+✨ **What it does:**
+- 📄 Upload any lab report (PDF/Image) → Get structured data instantly
+- 📊 Track health trends over time with visual analytics
+- 🔐 Secure JWT authentication & Firebase integration
+- 🌐 Live at [health-report-analyzer.vercel.app](https://health-report-analyzer.vercel.app)
+
+**🏆 Recognition:** Official GSSoC 2025 Project
+
+</td>
+<td width="40%">
+
+**📊 Project Stats**
+| Metric | Value |
+|--------|-------|
+| ⭐ Stars | 10+ |
+| 🍴 Forks | 43+ |
+| 👥 Contributors | 27+ |
+| 🛠️ Stack | React, Node, MongoDB, OCR |
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://health-report-analyzer.vercel.app)
+[![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Rajput-xv/Health-Report-Analyzer)
+
+</td>
+</tr>
+</table>
 
 ---
 
-###
+### 🌪️ **Crisis Nexus** — *Disaster Management Platform*
 
-<br clear="both">
+<table>
+<tr>
+<td width="40%">
 
-###
+**📊 Features**
+| Feature | Description |
+|---------|-------------|
+| 🗺️ Maps | Real-time incident tracking |
+| 🏥 Hospitals | Location-based finder |
+| 💰 Donations | Stripe-integrated giving |
+| 🌤️ Weather | Live forecasting |
 
+[![Frontend](https://img.shields.io/badge/Frontend-6366F1?style=for-the-badge&logo=react)](https://github.com/Rajput-xv/Crisis-nexus-frontend)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=nodedotjs)](https://github.com/Rajput-xv/Crisis-Nexus-server)
 
+</td>
+<td width="60%">
+
+> **Why I built this:** After seeing the chaos during natural disasters, I wanted to create a platform that could coordinate relief efforts efficiently.
+
+✨ **What makes it special:**
+- 🚨 Real-time incident reporting with geo-location
+- 🏥 Find nearest hospitals with route directions
+- 📦 Resource inventory management for relief organizations
+- 💳 Secure donation system with Stripe
+- 🌦️ Weather integration for disaster preparedness
+
+**Tech:** React + Node.js + MongoDB + Leaflet Maps + Stripe
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛒 **Indian Bazaar** — *Empowering Street Vendors*
+
+<table>
+<tr>
+<td width="60%">
+
+> **The Vision:** India's street food vendors struggle to find reliable suppliers. I built a marketplace to change that.
+
+✨ **Platform Highlights:**
+- 👤 Dual roles: Vendors browse & order, Suppliers list & manage
+- 🛒 Smart cart with real-time sync
+- 📍 Location-based supplier discovery
+- 📊 Analytics dashboard for business insights
+- 🌙 Beautiful dark/light theme support
+
+**Tech:** TypeScript + React + Node.js + MongoDB + Tailwind
+
+</td>
+<td width="40%">
+
+**🎯 Key Features**
+| For Vendors | For Suppliers |
+|-------------|---------------|
+| Browse Materials | Manage Inventory |
+| Place Orders | Process Orders |
+| Track Delivery | View Analytics |
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://indian-bazaar.vercel.app)
+[![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Rajput-xv/indian-bazaar)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎮 More Projects (Click to expand)</b></summary>
+<br>
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🎯 **Connect Four Game** | Real-time multiplayer with AI bot | React, Socket.IO, MongoDB | [Demo](https://connect-four-game-alpha.vercel.app/) • [Repo](https://github.com/Rajput-xv/connect-four-game) |
+| 🔨 **Auction System** | Real-time bidding platform | React, Node.js, WebSocket | [Demo](https://auction-lac.vercel.app) • [Repo](https://github.com/Rajput-xv/Auction) |
+| ⭐ **Ratings & Review** | Product review system | React, Node.js, MySQL | [Demo](https://ratings-and-review-system-two.vercel.app/) • [Repo](https://github.com/Rajput-xv/Ratings-and-Review-System) |
+| 📱 **College PhoneBook** | Android directory app | Kotlin, Firebase | [Repo](https://github.com/Rajput-xv/CollegePhoneBook-App) |
+| 🔐 **Auto-Fill Extension** | Browser form automation | JavaScript | [Repo](https://github.com/Rajput-xv/Auto-Fill) |
+
+</details>
+
+---
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajput-xv&bg_color=1a1b27&color=6366f1&line=628fdb&point=6366f1&area=true&hide_border=true&border_radius=15" width="95%"/>
+
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajput-xv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" width="45%"/>
+
+</div>
+
+---
+
+<!-- Trophies -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rajput-xv&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+<!-- Connect Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="28" /> &nbsp;Let's Connect!
+
+<div align="center">
+
+<a href="https://rajput-xv.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/yash-rajput-xv" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/rajput_xv" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:yash44365@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.leetcode.com/rajput_xv" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://instagram.com/rajput_xv" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br><br>
+
+### 📄 **Grab My Resume**
+<a href="https://drive.google.com/file/d/1pkz0Tvgmy7sof--dPhvirjkyzXATTSga/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/📥_Download_Resume-6366F1?style=for-the-badge" alt="Resume"/>
+</a>
+
+</div>
+
+---
+
+<!-- Call to Action -->
+<div align="center">
+
+### 💭 **What I Believe**
+
+> *"The best code is the code that makes someone's life a little bit easier."*
+
+<br>
+
+**I'm always excited to collaborate on projects that:**
+  
+🩺 **Improve healthcare accessibility**  
+🌍 **Create social impact**  
+🚀 **Push technological boundaries**  
+📚 **Help developers grow**
+
+<br>
+
+### ⭐ If my work resonates with you, consider giving my projects a star!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
+
+**Let's build something meaningful together!**
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajput-xv/Rajput-xv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajput-xv/Rajput-xv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajput-xv/Rajput-xv/output/github-snake.svg" />
+</picture>
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Have+a+great+day!+%F0%9F%91%8B;Made+with+%E2%9D%A4%EF%B8%8F+by+Yash+Verma" alt="Footer Typing SVG" />
+</div>
