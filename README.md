@@ -33,7 +33,7 @@ const yash = {
     currentlyWorking: "Building impactful healthcare & social good solutions",
     learning: ["DevOps", "Go", "System Design", "Cloud Architecture"],
     hobbies: ["Traveling 🌍", "Photography 📸", "Open Source 💻"],
-    funFact: "Ranked 304th among 27,000+ developers in GSSoC 2024! 🏆"
+    funFact: "AWS Certified Cloud Practitioner | TCS CodeVita S12 Global Rank 557 🏆"
 };
 ```
 
@@ -41,7 +41,7 @@ const yash = {
 
 ### 👨‍💻 **Hey there, I'm Yash!**
 
-I'm not just a developer who writes code — I'm someone who believes technology should **make people's lives better**. Whether it's helping doctors analyze health reports faster, coordinating disaster relief efforts, or connecting street vendors with suppliers — every line of code I write has a purpose.
+I'm not just a developer who writes code - I'm someone who believes technology should **make people's lives better**. Whether it's helping doctors analyze health reports faster, coordinating disaster relief efforts, or connecting street vendors with suppliers - every line of code I write has a purpose.
 
 **🎯 What drives me:**
 - Building **healthcare tech** that actually helps medical professionals
@@ -50,7 +50,7 @@ I'm not just a developer who writes code — I'm someone who believes technology
 - Mentoring the next generation of **open-source contributors**
 
 **✨ Current Chapter:**
-- 🏥 Leading **Health Report Analyzer** as GSSoC 2025 Project Admin
+- 🏥 Leading **Health Report Analyzer** as Startup idea
 - 🌱 Exploring **Go Lang** and **DevOps** practices
 - 🎓 Final year B.Tech student turning ideas into reality
 - 🤝 Always up for meaningful collaborations!
@@ -101,6 +101,8 @@ I'm not just a developer who writes code — I'm someone who believes technology
 
 ### 🏆 **Achievements**
 
+☁️ **AWS Certified Cloud Practitioner**  
+🏆 **TCS CodeVita S12** - Global Rank 557  
 🥇 **GSSoC 2025 Project Admin** - Health Report Analyzer  
 🏅 **Ranked 304/27,000+** in GSSoC 2024  
 ⭐ **10+ Stars** on flagship project  
@@ -158,14 +160,14 @@ I'm not just a developer who writes code — I'm someone who believes technology
 
 <div align="center">
 
-<!-- Health Report Analyzer -->
+<!-- Health Report Analyzer
 <a href="https://github.com/Rajput-xv/Health-Report-Analyzer">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajput-xv&repo=Health-Report-Analyzer&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+</a> -->
 
 </div>
 
-### 🩺 **Health Report Analyzer** — *My Flagship Project*
+### 🩺 **Health Report Analyzer** - *My Flagship Project*
 
 <table>
 <tr>
@@ -180,7 +182,7 @@ I'm not just a developer who writes code — I'm someone who believes technology
 - 🔐 Secure JWT authentication & Firebase integration
 - 🌐 Live at [health-report-analyzer.vercel.app](https://health-report-analyzer.vercel.app)
 
-**🏆 Recognition:** Official GSSoC 2025 Project
+<!-- **🏆 Recognition:** Official GSSoC 2025 Project -->
 
 </td>
 <td width="40%">
@@ -190,7 +192,7 @@ I'm not just a developer who writes code — I'm someone who believes technology
 |--------|-------|
 | ⭐ Stars | 10+ |
 | 🍴 Forks | 43+ |
-| 👥 Contributors | 27+ |
+<!-- | 👥 Contributors | 27+ | -->
 | 🛠️ Stack | React, Node, MongoDB, OCR |
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://health-report-analyzer.vercel.app)
@@ -202,7 +204,7 @@ I'm not just a developer who writes code — I'm someone who believes technology
 
 ---
 
-### 🌪️ **Crisis Nexus** — *Disaster Management Platform*
+### 🌪️ **Crisis Nexus** - *Disaster Management Platform*
 
 <table>
 <tr>
@@ -239,7 +241,7 @@ I'm not just a developer who writes code — I'm someone who believes technology
 
 ---
 
-### 🛒 **Indian Bazaar** — *Empowering Street Vendors*
+### 🛒 **Indian Bazaar** - *Empowering Street Vendors*
 
 <table>
 <tr>
