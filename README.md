@@ -1,61 +1,144 @@
-<!-- Header Banner with Animated Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Tech%20for%20Good&descAlignY=52&descSize=18"/>
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   🚀 YASH VERMA - Full Stack Developer | Open Source Enthusiast              ║
+║   📍 Meerut, India | 🎓 VIT Bhopal | ☁️ AWS Certified                        ║
+║                                                                              ║
+║   ⭐ If you're here from a link preview - Welcome! Star my repos if helpful! ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
+<!-- 🔥 CUSTOM HEADER - Unique 3D Holographic Effect -->
 <div align="center">
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+Meerut%2C+India+%F0%9F%87%AE%F0%9F%87%B3;GSSoC+2025+Project+Admin+%F0%9F%8C%9F;40%2B+Repositories+%7C+2.5%2B+Years+on+GitHub" alt="Typing SVG" /></a>
-
-  <!-- Profile Views & Followers -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Rajput-xv&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/Rajput-xv?tab=followers">
-      <img src="https://img.shields.io/github/followers/Rajput-xv?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
-    </a>
-    <img src="https://img.shields.io/github/stars/Rajput-xv?label=Total%20Stars&style=for-the-badge&color=6366f1" alt="Total Stars"/>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YASH%20VERMA&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Advocate%20•%20Building%20Tech%20for%20Good&descAlignY=58&descSize=20&descColor=fff&stroke=6366F1&strokeWidth=3" width="100%"/>
 
 </div>
 
-<!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;The Story So Far
+<!-- ⚡ QUICK INTRO - Eye-catching animated cards -->
+<div align="center">
+  <br>
+  
+  <!-- Custom animated badge row -->
+  <a href="https://github.com/Rajput-xv">
+    <img src="https://img.shields.io/badge/🔥_AWS_CERTIFIED-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+  </a>
+  <a href="https://github.com/Rajput-xv">
+    <img src="https://img.shields.io/badge/🏆_TCS_CODEVITA_RANK_557-0066CC?style=for-the-badge&logo=tcs&logoColor=white" alt="TCS"/>
+  </a>
+  <!-- <a href="https://github.com/Rajput-xv">
+    <img src="https://img.shields.io/badge/⭐_GSSOC_PROJECT_ADMIN-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="GSSoC"/>
+  </a> -->
+  
+  <br><br>
 
-```javascript
-const yash = {
-    pronouns: "he/him",
-    location: "Meerut, Uttar Pradesh, India 📍",
-    education: {
-        degree: "B.Tech in Computer Science",
-        university: "VIT Bhopal",
-        cgpa: 8.5,
-        graduation: 2026
-    },
-    currentlyWorking: "Building impactful healthcare & social good solutions",
-    learning: ["DevOps", "Go", "System Design", "Cloud Architecture"],
-    hobbies: ["Traveling 🌍", "Photography 📸", "Open Source 💻"],
-    funFact: "AWS Certified Cloud Practitioner | TCS CodeVita S12 Global Rank 557 🏆"
+  <!-- Animated Typing SVG with better styling -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%E2%9C%A8+Crafting+Solutions+That+Matter;%F0%9F%92%A1+From+Ideas+to+Impact;%F0%9F%8C%8D+Meerut%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <!-- Live Profile Stats with animated counters -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Rajput-xv&label=🔥%20Profile%20Visitors&color=6366f1&style=for-the-badge&abbreviated=true" />
+    <img src="https://komarev.com/ghpvc/?username=Rajput-xv&label=🔥%20Profile%20Visitors&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  </picture>
+  &nbsp;
+  <a href="https://github.com/Rajput-xv?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rajput-xv?label=🤝%20Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Rajput-xv?label=⭐%20Total%20Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Total Stars"/>
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" /> &nbsp;The Developer Behind the Code
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```typescript
+// 🚀 yash.config.ts - Meet the developer!
+
+interface Developer {
+  name: string;
+  title: string;
+  location: Location;
+  education: Education;
+  certifications: string[];
+  currentFocus: string[];
+  funFact: string;
+}
+
+const yash: Developer = {
+  name: "Yash Verma",
+  title: "Full Stack Developer & Open Source Advocate",
+  
+  location: {
+    city: "Meerut",
+    state: "Uttar Pradesh", 
+    country: "India 🇮🇳",
+    timezone: "IST (UTC+5:30)"
+  },
+  
+  education: {
+    degree: "B.Tech Computer Science",
+    university: "VIT Bhopal",
+    cgpa: 8.5,
+    graduating: 2026
+  },
+  
+  certifications: [
+    "☁️ AWS Certified Cloud Practitioner",
+    "🏆 TCS CodeVita S12 - Global Rank 557"
+  ],
+  
+  currentFocus: [
+    "🏥 Healthcare Technology",
+    "🌍 Social Impact Platforms", 
+    "☁️ Cloud Architecture",
+    "🔧 DevOps & CI/CD"
+  ],
+  
+  funFact: "I believe every bug is just an undiscovered feature! 🐛✨"
 };
+
+export default yash;
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</td>
+<td width="45%" valign="top">
 
-### 👨‍💻 **Hey there, I'm Yash!**
+<div align="center">
+  
+<!-- Animated Code GIF -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
 
-I'm not just a developer who writes code - I'm someone who believes technology should **make people's lives better**. Whether it's helping doctors analyze health reports faster, coordinating disaster relief efforts, or connecting street vendors with suppliers - every line of code I write has a purpose.
+<br><br>
 
-**🎯 What drives me:**
-- Building **healthcare tech** that actually helps medical professionals
-- Creating **social impact platforms** for disaster preparedness  
-- Empowering **small businesses** with digital solutions
-- Mentoring the next generation of **open-source contributors**
+<!-- Quick Stats Cards -->
+<!-- <img src="https://img.shields.io/badge/🎓_VIT_Bhopal-8.5_CGPA-6366F1?style=for-the-badge" alt="CGPA"/>
+<img src="https://img.shields.io/badge/📅_2026-Graduating-10B981?style=for-the-badge" alt="Graduating"/>
+<img src="https://img.shields.io/badge/💼_3+-Internships-F59E0B?style=for-the-badge" alt="Internships"/> -->
 
-**✨ Current Chapter:**
-- 🏥 Leading **Health Report Analyzer** as Startup idea
-- 🌱 Exploring **Go Lang** and **DevOps** practices
-- 🎓 Final year B.Tech student turning ideas into reality
-- 🤝 Always up for meaningful collaborations!
+<br><br>
 
-<br clear="both">
+### 🎯 Currently
+- 🏥 Building **Health Report Analyzer**
+- 🌱 Learning **Go Lang** & **System Design**
+- 🤝 Open for **collaborations**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -379,7 +462,9 @@ I'm not just a developer who writes code - I'm someone who believes technology s
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Snake Animation -->
 <div align="center">
@@ -390,9 +475,27 @@ I'm not just a developer who writes code - I'm someone who believes technology s
 </picture>
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎬 FOOTER - Epic Ending -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Have+a+great+day!+%F0%9F%91%8B;Made+with+%E2%9D%A4%EF%B8%8F+by+Yash+Verma" alt="Footer Typing SVG" />
+
+<!-- Animated farewell -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%92%9C+Made+with+passion+by+Yash+Verma;%E2%9C%A8+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+
+<br>
+
+<!-- Final social row with hover effect badges -->
+<a href="https://github.com/Rajput-xv">
+  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_helpful!-6366F1?style=for-the-badge" alt="Star"/>
+</a>
+
+<br><br>
+
+<!-- Copyright -->
+<sub>© 2024-2026 Yash Verma. All rights reserved. | Built with ❤️ and lots of ☕</sub>
+
 </div>
