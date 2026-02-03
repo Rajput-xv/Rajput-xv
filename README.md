@@ -388,7 +388,7 @@ export default yash;
 <img width="49%" src="https://github-readme-stats-ecru-chi-88.vercel.app/api?username=Rajput-xv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800" />
 <img
   width="49%"
-  src="https://streak-stats.demolab.com?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400"
+  src="https://github-readme-streak-stats-three-livid.vercel.app?user=Rajput-xv&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800"
   alt="GitHub Streak Stats"
 />
 </p>
