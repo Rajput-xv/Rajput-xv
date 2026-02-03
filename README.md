@@ -46,11 +46,9 @@
     <img src="https://komarev.com/ghpvc/?username=Rajput-xv&label=🔥%20Profile%20Visitors&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile views" />
   </picture>
   &nbsp;
-  <a href="https://github.com/Rajput-xv?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajput-xv?label=🤝%20Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers" />
-  </a>
+  [![🤝 Followers](https://img.shields.io/github/followers/Rajput-xv.svg?style=for-the-badge&label=%F0%9F%A4%9D%20Followers&color=6366f1&labelColor=1a1b27)](https://github.com/Rajput-xv?tab=followers)
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Rajput-xv?label=⭐%20Total%20Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Total Stars" />
+  [![⭐ Total Stars](https://img.shields.io/github/stars/Rajput-xv.svg?style=for-the-badge&label=%E2%AD%90%20Total%20Stars&color=6366f1&labelColor=1a1b27)](https://github.com/Rajput-xv/stargazers)
 
 </div>
 
