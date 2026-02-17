@@ -8,10 +8,10 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
- 
+
 <!-- 🔥 CUSTOM HEADER - Unique 3D Holographic Effect -->
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YASH%20VERMA&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Advocate%20•%20Building%20Tech%20for%20Good&descAlignY=58&descSize=20&descColor=fff&stroke=6366F1&strokeWidth=3" width="100%"/>
 
 </div>
@@ -19,7 +19,7 @@
 <!-- ⚡ QUICK INTRO - Eye-catching animated cards -->
 <div align="center">
   <br>
-  
+
   <!-- Custom animated badge row -->
   <a href="https://github.com/Rajput-xv">
     <img src="https://img.shields.io/badge/🔥_AWS_CERTIFIED-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
@@ -30,7 +30,7 @@
   <!-- <a href="https://github.com/Rajput-xv">
     <img src="https://img.shields.io/badge/⭐_GSSOC_PROJECT_ADMIN-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="GSSoC"/>
   </a> -->
-  
+
   <br><br>
 
   <!-- Animated Typing SVG with better styling -->
@@ -56,6 +56,8 @@
   &nbsp;
 
 </div>
+
+<!-- About Me Section -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" /> &nbsp;The Developer Behind the Code
 
@@ -116,13 +118,12 @@ export default yash;
 <td width="45%" valign="top">
 
 <div align="center">
-  
+
 <!-- Animated Code GIF -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
 
 <br><br>
 
-<!-- Quick Stats Cards -->
 <!-- <img src="https://img.shields.io/badge/🎓_VIT_Bhopal-8.5_CGPA-6366F1?style=for-the-badge" alt="CGPA"/>
 <img src="https://img.shields.io/badge/📅_2026-Graduating-10B981?style=for-the-badge" alt="Graduating"/>
 <img src="https://img.shields.io/badge/💼_3+-Internships-F59E0B?style=for-the-badge" alt="Internships"/> -->
@@ -130,6 +131,7 @@ export default yash;
 <br><br>
 
 ### 🎯 Currently
+
 - 🏥 Building **Health Report Analyzer**
 - 🌱 Learning **Go Lang** & **System Design**
 - 🤝 Open for **collaborations**
@@ -146,6 +148,7 @@ export default yash;
 ---
 
 <!-- Journey Timeline -->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;My Journey
 
 <table>
@@ -153,7 +156,6 @@ export default yash;
 <td width="50%">
 
 ### 💼 **Professional Experience**
-
 **🔷 ReactJS Developer Intern** @ Qureal AI  
 `Sep 2025 - Nov 2025`
 > Built full-stack admin portal managing e-commerce operations across 20+ components
@@ -174,7 +176,6 @@ export default yash;
 <td width="50%">
 
 ### 📚 **Education**
-
 **🎓 B.Tech in Computer Science**  
 *VIT Bhopal* | `2022 - 2026`
 > CGPA: **8.5** | Coursework: DSA, DBMS, OS, ML, AI
@@ -186,7 +187,6 @@ export default yash;
 <br>
 
 ### 🏆 **Achievements**
-
 ☁️ **AWS Certified Cloud Practitioner**  
 🏆 **TCS CodeVita S12** - Global Rank 557  
 🥇 **GSSoC 2025 Project Admin** - Health Report Analyzer  
@@ -201,6 +201,7 @@ export default yash;
 ---
 
 <!-- Tech Stack Section -->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
 
 <div align="center">
@@ -227,6 +228,7 @@ export default yash;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠️ **DevOps & Cloud**
@@ -237,11 +239,18 @@ export default yash;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🔌 **Real-Time & APIs**
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 </div>
 
 ---
 
 <!-- Featured Projects -->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> &nbsp;Featured Creations
 
 <div align="center">
@@ -266,7 +275,7 @@ export default yash;
 - 📄 Upload any lab report (PDF/Image) → Get structured data instantly
 - 📊 Track health trends over time with visual analytics
 - 🔐 Secure JWT authentication & Firebase integration
-- 🌐 Live at [health-report-analyzer.vercel.app](https://health-report-analyzer.vercel.app)
+- 🌐 Live at [health-report-analyzer.vercel.app](https://health-report-analyzer-client.vercel.app)
 
 <!-- **🏆 Recognition:** Official GSSoC 2025 Project -->
 
@@ -281,7 +290,7 @@ export default yash;
 <!-- | 👥 Contributors | 27+ | -->
 | 🛠️ Stack | React, Node, MongoDB, OCR |
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://health-report-analyzer.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://health-report-analyzer-client.vercel.app)
 [![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Rajput-xv/Health-Report-Analyzer)
 
 </td>
@@ -361,27 +370,70 @@ export default yash;
 </tr>
 </table>
 
+---
+
+### 📹 **Cyphora** - *Peer-to-Peer Video Chat Platform*
+
+<table>
+<tr>
+<td width="40%">
+
+**🔧 Under the Hood**
+| Layer | Technology |
+|-------|------------|
+| 🎥 Video | WebRTC + simple-peer |
+| ⚡ Real-time | Socket.IO |
+| 🔐 Auth | Firebase + JWT |
+| 🗄️ Database | MongoDB + Mongoose |
+| 🚀 Frontend | React 18 + Vite |
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://cyphora.vercel.app)
+[![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Rajput-xv/Personal-Omegle)
+
+</td>
+<td width="60%">
+
+> **The Idea:** Wanted a private, secure video chat — no ads, no tracking. Just connect and talk.
+
+✨ **What makes it stand out:**
+- 🎥 True peer-to-peer video & audio with WebRTC
+- 🔀 Random stranger matchmaking — skip, next, reconnect
+- 💬 Live text chat alongside video calls
+- 🔐 Firebase authentication for user safety
+- 🛡️ Helmet, CORS & rate limiting for production security
+- 📱 Responsive design — works on desktop & mobile
+
+**Tech:** React + Node.js + WebRTC + Socket.IO + MongoDB + Firebase
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>🎮 More Projects (Click to expand)</b></summary>
 <br>
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎯 **Connect Four Game** | Real-time multiplayer with AI bot | React, Socket.IO, MongoDB | [Demo](https://connect-four-game-alpha.vercel.app/) • [Repo](https://github.com/Rajput-xv/connect-four-game) |
-| 🔨 **Auction System** | Real-time bidding platform | React, Node.js, WebSocket | [Demo](https://auction-lac.vercel.app) • [Repo](https://github.com/Rajput-xv/Auction) |
-| ⭐ **Ratings & Review** | Product review system | React, Node.js, MySQL | [Demo](https://ratings-and-review-system-two.vercel.app/) • [Repo](https://github.com/Rajput-xv/Ratings-and-Review-System) |
-| 📱 **College PhoneBook** | Android directory app | Kotlin, Firebase | [Repo](https://github.com/Rajput-xv/CollegePhoneBook-App) |
-| 🔐 **Auto-Fill Extension** | Browser form automation | JavaScript | [Repo](https://github.com/Rajput-xv/Auto-Fill) |
+| 🎯 **Connect Four Game** | Real-time multiplayer with AI bot & leaderboard | React, Socket.IO, MongoDB | [Demo](https://connect-four-game-alpha.vercel.app/) • [Repo](https://github.com/Rajput-xv/connect-four-game) |
+| 🔨 **Auction System** | Real-time bidding platform with live updates | React, Node.js, WebSocket | [Demo](https://auction-lac.vercel.app) • [Repo](https://github.com/Rajput-xv/Auction) |
+| 🎲 **Truth or Dare** | Multiplayer game with WebRTC video & spinning wheel | React, Socket.IO, WebRTC, MongoDB | [Demo](https://room-t-d.vercel.app/) • [Repo](https://github.com/Rajput-xv/room-T-D) |
+| 🏆 **Gaming Leaderboard** | High-performance ranking system with Redis caching | Node.js, PostgreSQL, Redis, React | [Repo](https://github.com/Rajput-xv/Gaming-Leaderboard) |
+| 💬 **CommentHub** | Social comment system with nested threads & OAuth | Next.js, TypeScript, Node.js, MongoDB | [Demo](https://comment-syatem.vercel.app/) • [Repo](https://github.com/Rajput-xv/Comment-Syatem) |
+| ⭐ **Ratings & Review** | Product review system with image uploads | React, Express, MySQL, Cloudinary | [Demo](https://ratings-and-review-system-two.vercel.app/) • [Repo](https://github.com/Rajput-xv/Ratings-and-Review-System) |
+| 📊 **Retail Sales Management** | Enterprise sales analytics dashboard | React, Node.js, MongoDB, Ant Design | [Repo](https://github.com/Rajput-xv/Retail-Sales-Management-System) |
+| 📋 **CaseFlow** | Case management with CSV import & glassmorphism UI | TypeScript, React, Redux, Framer Motion | [Demo](https://case-flow-gilt.vercel.app/) • [Repo](https://github.com/Rajput-xv/CaseFlow) |
+| 🔐 **Auto-Fill Extension** | Chrome extension for smart form automation | JavaScript, Chrome API | [Repo](https://github.com/Rajput-xv/Auto-Fill) |
 
 </details>
 
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Analytics
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Analytics
 <div align="center">
-  
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajput-xv&bg_color=1a1b27&color=6366f1&line=628fdb&point=6366f1&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph" width="95%"/>
 
 <p>
@@ -400,8 +452,8 @@ export default yash;
 ---
 
 <!-- Trophies
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rajput-xv&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
@@ -409,11 +461,11 @@ export default yash;
 --- -->
 
 <!-- Connect Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="28" /> &nbsp;Let's Connect!
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="28" /> &nbsp;Let's Connect!
 <div align="center">
 
-<a href="https://rajput-xv.github.io/Portfolio/" target="_blank">
+<a href="https://rajputxv.me/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/yash-rajput-xv" target="_blank">
@@ -447,13 +499,12 @@ export default yash;
 <div align="center">
 
 ### 💭 **What I Believe**
-
 > *"The best code is the code that makes someone's life a little bit easier."*
 
 <br>
 
 **I'm always excited to collaborate on projects that:**
-  
+
 🩺 **Improve healthcare accessibility**  
 🌍 **Create social impact**  
 🚀 **Push technological boundaries**  
@@ -462,7 +513,6 @@ export default yash;
 <br>
 
 ### ⭐ If my work resonates with you, consider giving my projects a star!
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
 
 **Let's build something meaningful together!**
