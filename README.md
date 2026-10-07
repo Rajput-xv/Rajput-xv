@@ -4,7 +4,7 @@ I build software at **[CashKaro](https://cashkaro.com)** — India's largest cas
 
 Computer science at VIT Bhopal, class of '26. Based in Gurugram, India.
 
-**Now:** shipping fintech at CashKaro · learning Go · getting serious about system design
+**Now:** shipping fintech at CashKaro · getting serious about system design
 
 ### Selected work
 
